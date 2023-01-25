@@ -10,7 +10,7 @@ Visando a solucionar o problema de Robson, você deve desenvolver uma aplicaçã
 - O sistema deve armazenar esses dados em um banco de dados qualquer(mysql, postgres, mongodb, mariadb, sqlite e etc);
 - O sistema deve disponibilizar uma API Restfull para ser consumida;
 
-##Usabilidade
+## Usabilidade
 - O sistema deve ser flexível no quesito acesso, permitindo sua usabilidade tanto em ambiente desktop quanto em mobile;
 - A escolha da tecnologia para implementação do front-end fica a seu critério;
 
